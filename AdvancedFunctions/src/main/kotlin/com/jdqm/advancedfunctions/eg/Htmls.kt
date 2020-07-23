@@ -1,4 +1,4 @@
-package com.bennyhuo.kotlin.advancedfunctions.eg
+package com.jdqm.advancedfunctions.eg
 
 import java.io.File
 
